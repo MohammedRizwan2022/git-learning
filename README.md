@@ -6,4 +6,4 @@ I added this line in remote repo
 
 i am in awesome branch.
 
-this is line 8 of awesome branch.
+i am in line 9 of awesome
